@@ -12,6 +12,7 @@ Workshop contents for "Introduction to GitHub," part of the UNLV Workshop series
 * GitHub-Versioning-Interface.png (photograph) - annotated photograph describing GitHub's version control screen
 * vocabulary.md (markdown file) - details common vocabulary for Git and GitHub
 
+
 ## Additional Resources
 1. [GitHub Handbook](https://guides.github.com/introduction/git-handbook/)
 2. [GitHub Desktop](https://desktop.github.com/)
